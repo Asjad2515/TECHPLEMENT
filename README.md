@@ -1,2 +1,2 @@
 # TECHPLEMENT
-Using java created a real time currency converter
+Using java to created a real time currency converter.
