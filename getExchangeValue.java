@@ -9,7 +9,7 @@ import okhttp3.Request;
 import okhttp3.Response;
 
 public class getExchangeValue {
-    private static final String API_KEY = "znSzjUGRNjmTgL45XelpethTyk86foHP";
+    private static final String API_KEY = "(YOUR API KEY);
     private static final String API_URL = "https://api.apilayer.com/exchangerates_data/latest";
 
     private static Map<String, BigDecimal> favoriteCurrencies = new HashMap<>();
